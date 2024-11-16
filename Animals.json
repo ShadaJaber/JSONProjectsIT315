@@ -9,31 +9,31 @@
     {
       "AnimalName": "Cat",
       "AnimalImage": "https://raw.githubusercontent.com/ShadaJaber/JSONProjectsIT315/master/cat.jpg",
-      "AnimalNameSound": "https://raw.githubusercontent.com/ShadaJaber/JSONProjectsIT315/master/Dog.m4a",
+      "AnimalNameSound": "https://raw.githubusercontent.com/ShadaJaber/JSONProjectsIT315/master/Cat.m4a",
       "AnimalWebsite": "https://www.youtube.com/watch?v=Vk24cZJQTwE"
     },
     {
       "AnimalName": "Snake",
       "AnimalImage": "https://raw.githubusercontent.com/ShadaJaber/JSONProjectsIT315/master/snake.jpg",
-      "AnimalNameSound": "https://raw.githubusercontent.com/ShadaJaber/JSONProjectsIT315/master/Dog.m4a",
+      "AnimalNameSound": "https://raw.githubusercontent.com/ShadaJaber/JSONProjectsIT315/master/Snake.m4a",
       "AnimalWebsite": "https://www.youtube.com/watch?v=21mp4Ww0SuE"
     },
     {
       "AnimalName": "Lion",
       "AnimalImage": "https://raw.githubusercontent.com/ShadaJaber/JSONProjectsIT315/master/lion.jpg",
-      "AnimalNameSound": "https://raw.githubusercontent.com/ShadaJaber/JSONProjectsIT315/master/Dog.m4a",
+      "AnimalNameSound": "https://raw.githubusercontent.com/ShadaJaber/JSONProjectsIT315/master/Lion.m4a",
       "AnimalWebsite": "https://www.youtube.com/watch?v=Mrlsmm6gaww"
     },
     {
       "AnimalName": "Tiger",
       "AnimalImage": "https://raw.githubusercontent.com/ShadaJaber/JSONProjectsIT315/master/tiger.jpg",
-      "AnimalNameSound": "https://raw.githubusercontent.com/ShadaJaber/JSONProjectsIT315/master/Dog.m4a",
+      "AnimalNameSound": "https://raw.githubusercontent.com/ShadaJaber/JSONProjectsIT315/master/Tiger.m4a",
       "AnimalWebsite": "https://www.youtube.com/watch?v=_q2rYvFLkow"
     },
     {
       "AnimalName": "Elephant",
       "AnimalImage": "https://raw.githubusercontent.com/ShadaJaber/JSONProjectsIT315/master/elephant.jpg",
-      "AnimalNameSound": "https://raw.githubusercontent.com/ShadaJaber/JSONProjectsIT315/master/Dog.m4a",
+      "AnimalNameSound": "https://raw.githubusercontent.com/ShadaJaber/JSONProjectsIT315/master/elephant.m4a",
       "AnimalWebsite": "https://www.youtube.com/watch?v=z4FbTIldHys"
     }
   ],
