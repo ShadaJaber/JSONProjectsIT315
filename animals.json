@@ -9,35 +9,35 @@
     },
     {
       "AnimalName": "Cat",
-      "AnimalImage": "https://raw.githubusercontent.com/donalmeida/JSONProjectsIT315/master/cat.jpg",
+      "AnimalImage": "https://raw.githubusercontent.com/ShadaJaber/JSONProjectsIT315/master/cat.jpg",
       "AnimalSound": "Meow",
       "AnimalNameSound": "Cat",
       "AnimalWebsite": "https://www.youtube.com/watch?v=Vk24cZJQTwE"
     },
     {
       "AnimalName": "Snake",
-      "AnimalImage": "https://raw.githubusercontent.com/donalmeida/JSONProjectsIT315/master/snake.jpg",
+      "AnimalImage": "https://raw.githubusercontent.com/ShadaJaber/JSONProjectsIT315/master/snake.jpg",
       "AnimalSound": "Hiss",
       "AnimalNameSound": "Snake",
       "AnimalWebsite": "https://www.youtube.com/watch?v=21mp4Ww0SuE"
     },
     {
       "AnimalName": "Lion",
-      "AnimalImage": "https://raw.githubusercontent.com/donalmeida/JSONProjectsIT315/master/lion.jpg",
+      "AnimalImage": "https://raw.githubusercontent.com/ShadaJaber/JSONProjectsIT315/master/lion.jpg",
       "AnimalSound": "Roar2",
       "AnimalNameSound": "Lion",
       "AnimalWebsite": "https://www.youtube.com/watch?v=Mrlsmm6gaww"
     },
     {
       "AnimalName": "Tiger",
-      "AnimalImage": "https://raw.githubusercontent.com/donalmeida/JSONProjectsIT315/master/tiger.jpg",
+      "AnimalImage": "https://raw.githubusercontent.com/ShadaJaber/JSONProjectsIT315/master/tiger.jpg",
       "AnimalSound": "Roar",
       "AnimalNameSound": "Tiger",
       "AnimalWebsite": "https://www.youtube.com/watch?v=_q2rYvFLkow"
     },
     {
       "AnimalName": "Elephant",
-      "AnimalImage": "https://raw.githubusercontent.com/donalmeida/JSONProjectsIT315/master/elephant.jpg",
+      "AnimalImage": "https://raw.githubusercontent.com/ShadaJaber/JSONProjectsIT315/master/elephant.jpg",
       "AnimalSound": "Trill",
       "AnimalNameSound": "Elephant",
       "AnimalWebsite": "https://www.youtube.com/watch?v=z4FbTIldHys"
