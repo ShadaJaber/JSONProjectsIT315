@@ -2,7 +2,7 @@
   "Animals": [
     {
       "AnimalName": "Dog",
-      "AnimalImage": "https://raw.githubusercontent.com/donalmeida/JSONProjectsIT315/master/dog.jpg",
+      "AnimalImage": "https://raw.githubusercontent.com/donalmeida/JSONProjectsIT315/ShadaJaber/dog.jpg",
       "AnimalSound": "Woof",
       "AnimalNameSound": "Dog",
       "AnimalWebsite": "https://www.youtube.com/watch?v=snwJ2u5AawA"
