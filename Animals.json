@@ -3,8 +3,8 @@
     {
       "AnimalName": "Dog",
       "AnimalImage": "https://raw.githubusercontent.com/ShadaJaber/JSONProjectsIT315/master/dog.jpg",
-      "AnimalSound": "Woof.m4a",
-      "AnimalNameSound": "Dog.m4a",
+      "AnimalSound": "https://raw.githubusercontent.com/ShadaJaber/JSONProjectsIT315/master/Woof.m4a",
+      "AnimalNameSound": "https://raw.githubusercontent.com/ShadaJaber/JSONProjectsIT315/master/Dog.m4a",
       "AnimalWebsite": "https://www.youtube.com/watch?v=snwJ2u5AawA"
     },
     {
