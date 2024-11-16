@@ -3,43 +3,43 @@
     {
       "AnimalName": "Dog",
       "AnimalImage": "https://raw.githubusercontent.com/ShadaJaber/JSONProjectsIT315/master/dog.jpg",
-      "AnimalSound": "Woof",
-      "AnimalNameSound": "Dog",
+      "AnimalSound": "Woof.m4a",
+      "AnimalNameSound": "Dog.m4a",
       "AnimalWebsite": "https://www.youtube.com/watch?v=snwJ2u5AawA"
     },
     {
       "AnimalName": "Cat",
       "AnimalImage": "https://raw.githubusercontent.com/ShadaJaber/JSONProjectsIT315/master/cat.jpg",
-      "AnimalSound": "Meow",
-      "AnimalNameSound": "Cat",
+      "AnimalSound": "https://raw.githubusercontent.com/ShadaJaber/JSONProjectsIT315/master/Meow.m4a",
+      "AnimalNameSound": "https://raw.githubusercontent.com/ShadaJaber/JSONProjectsIT315/master/Cat.m4a",
       "AnimalWebsite": "https://www.youtube.com/watch?v=Vk24cZJQTwE"
     },
     {
       "AnimalName": "Snake",
       "AnimalImage": "https://raw.githubusercontent.com/ShadaJaber/JSONProjectsIT315/master/snake.jpg",
-      "AnimalSound": "Hiss",
-      "AnimalNameSound": "Snake",
+      "AnimalSound": "https://raw.githubusercontent.com/ShadaJaber/JSONProjectsIT315/master/Hiss.m4a",
+      "AnimalNameSound": "https://raw.githubusercontent.com/ShadaJaber/JSONProjectsIT315/master/Snake.m4a",
       "AnimalWebsite": "https://www.youtube.com/watch?v=21mp4Ww0SuE"
     },
     {
       "AnimalName": "Lion",
       "AnimalImage": "https://raw.githubusercontent.com/ShadaJaber/JSONProjectsIT315/master/lion.jpg",
-      "AnimalSound": "Roar2",
-      "AnimalNameSound": "Lion",
+      "AnimalSound": "https://raw.githubusercontent.com/ShadaJaber/JSONProjectsIT315/master/Roar2.m4a",
+      "AnimalNameSound": "https://raw.githubusercontent.com/ShadaJaber/JSONProjectsIT315/master/Lion.m4a",
       "AnimalWebsite": "https://www.youtube.com/watch?v=Mrlsmm6gaww"
     },
     {
       "AnimalName": "Tiger",
       "AnimalImage": "https://raw.githubusercontent.com/ShadaJaber/JSONProjectsIT315/master/tiger.jpg",
-      "AnimalSound": "Roar",
-      "AnimalNameSound": "Tiger",
+      "AnimalSound": "https://raw.githubusercontent.com/ShadaJaber/JSONProjectsIT315/master/Roar.m4a",
+      "AnimalNameSound": "https://raw.githubusercontent.com/ShadaJaber/JSONProjectsIT315/master/Tiger.m4a",
       "AnimalWebsite": "https://www.youtube.com/watch?v=_q2rYvFLkow"
     },
     {
       "AnimalName": "Elephant",
       "AnimalImage": "https://raw.githubusercontent.com/ShadaJaber/JSONProjectsIT315/master/elephant.jpg",
-      "AnimalSound": "Trill",
-      "AnimalNameSound": "Elephant",
+      "AnimalSound": "https://raw.githubusercontent.com/ShadaJaber/JSONProjectsIT315/master/Trill.m4a",
+      "AnimalNameSound": "https://raw.githubusercontent.com/ShadaJaber/JSONProjectsIT315/master/elephant.m4a",
       "AnimalWebsite": "https://www.youtube.com/watch?v=z4FbTIldHys"
     }
   ],
